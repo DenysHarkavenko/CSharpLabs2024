@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Pr_3.Modules
+﻿namespace Pr_3.Modules
 {
     internal class Book
     {
